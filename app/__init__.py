@@ -1,0 +1,2 @@
+"""Tirikchilik Telegram shop bot."""
+
